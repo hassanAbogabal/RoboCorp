@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 5.0.1 (Python 3.9.13 on win32)" generated="20221011 11:24:19.825" rpa="true" schemaversion="3">
+<suite id="s1" name="Tasks" source="c:\Users\HassanAbogabal\Desktop\RoboCorp\tasks.robot">
+<test id="s1-t1" name="Insert the sales data for the week and export it as PDF" line="6">
+<kw name="Open the intranet website">
+<msg timestamp="20221011 11:24:19.871" level="FAIL">User keyword 'Open the intranet website' contains no keywords.</msg>
+<status status="FAIL" starttime="20221011 11:24:19.871" endtime="20221011 11:24:19.873"/>
+</kw>
+<status status="FAIL" starttime="20221011 11:24:19.870" endtime="20221011 11:24:19.874">User keyword 'Open the intranet website' contains no keywords.</status>
+</test>
+<doc>Insert the sales data for the week and export it as a PDF.</doc>
+<status status="FAIL" starttime="20221011 11:24:19.832" endtime="20221011 11:24:19.876"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1" skip="0">All Tasks</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" skip="0" id="s1" name="Tasks">Tasks</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
